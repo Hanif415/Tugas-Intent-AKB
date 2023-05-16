@@ -18,7 +18,7 @@ public class ProfileActivity extends AppCompatActivity {
     }
 
     public void kembali(View view) {
-        Intent intent = new Intent(ProfileActivity.this, HomeActivity.class);
+        Intent intent = new Intent(ProfileActivity.this, MainActivity.class);
         startActivity(intent);
     }
 }
