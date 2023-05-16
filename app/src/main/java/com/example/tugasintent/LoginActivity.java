@@ -8,7 +8,9 @@ import android.view.View;
 
 //    Nama : Hanif Amrullah Almuharam
 //    Nim : 10120032
+//    Kelas : IF-1
 //    Tangggal Pengerjaan : 16 Mei 2023
+
 public class LoginActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {

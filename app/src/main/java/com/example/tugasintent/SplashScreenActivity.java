@@ -8,6 +8,7 @@ import android.os.Handler;
 
 //    Nama : Hanif Amrullah Almuharam
 //    Nim : 10120032
+//    Kelas : IF-1
 //    Tangggal Pengerjaan : 16 Mei 2023
 public class SplashScreenActivity extends AppCompatActivity {
 
