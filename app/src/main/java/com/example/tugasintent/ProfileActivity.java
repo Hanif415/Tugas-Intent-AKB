@@ -6,6 +6,9 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+//    Nama : Hanif Amrullah Almuharam
+//    Nim : 10120032
+//    Tangggal Pengerjaan : 16 Mei 2023
 public class ProfileActivity extends AppCompatActivity {
 
     @Override
